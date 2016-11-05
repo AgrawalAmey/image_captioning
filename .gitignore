@@ -1,0 +1,8 @@
+*.swp
+*.pyc
+.env/*
+/np/datasets/*
+/tf/datasets/*
+/tf(copy)/datasets/*
+/.ipynb_checkpoint
+*.p
